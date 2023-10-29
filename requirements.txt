@@ -1,0 +1,13 @@
+fpdf==1.7.2
+nltk==3.8.1
+numpy==1.24.0
+opencv_python==4.8.0.74
+opencv_python_headless==4.8.0.76
+pandas==1.5.2
+pdf2image==1.16.3
+pdfminer==20191125
+Pillow==9.3.0
+pytesseract==0.3.10
+spacy==3.6.1
+streamlit==1.26.0
+tqdm==4.65.0

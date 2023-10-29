@@ -1,0 +1,328 @@
+{
+  "classes": ["DISEASE", "TREATMENT", "CAUSE", "SYMPTOMS"],
+  "annotations": [
+    [
+      "2 DIFFERENTIAL DIAGNOSIS",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "2.1 Primary headaches",
+      {
+        "entities": [
+          [3, 21, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      "2.1.1 Tension headaches",
+      {
+        "entities": [
+          [0, 20, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      "Tension-type headaches3,4 are a heterogeneous entity, encompassing conditions of widely differing severity and impact, although usually not severe.",
+      {
+        "entities": [
+          [0, 17, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      "They account for almost two-thirds of all primary headaches, and can present in episodic or chronic form (headaches lasting at least 15 days/month and for more than 6 months).",
+      {
+        "entities": [
+          [54, 76, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "Typically, the pain involves the forehead, pericranial and occipital muscles, and is accompanied by tension in the paracervical and trapezius muscles.",
+      {
+        "entities": [
+          [28, 34, "SYMPTOMS"],
+          [39, 53, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "Muscle tension in these muscles is frequently observed. There are many triggers.",
+      {
+        "entities": [
+          [0, 14, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "Physical and psychological stress, as well as meteorological factors, feature prominently at all stages of life.",
+      {
+        "entities": [
+          [0, 30, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "2.1.2 Migraine",
+      {
+        "entities": [
+          [0, 8, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      "Migraine5,6 accounts for around 15% of primary headache disorders.",
+      {
+        "entities": [
+          [0, 7, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      "It affects 15% of the population, more frequently women than men (ratio 3/1).",
+      {
+        "entities": [
+          [29, 34, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "Prevalence is 25% in women aged 40.",
+      {
+        "entities": [
+          [15, 24, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "The majority (80%) of migraine sufferers present their first attacks before the age of 30.",
+      {
+        "entities": [
+          [5, 12, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "The frequency of attacks is highly variable, classically decreasing with age, and pregnancy induces transient remission in 70% of cases.",
+      {
+        "entities": [
+          [24, 35, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "Migraine is subdivided into three clinical entities:",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "Migraine without aura (formerly known as migraine commune): represents the majority of migraine attacks.",
+      {
+        "entities": [
+          [0, 23, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      "Migraine with aura (formerly accompanied migraine): around 15-20% of migraine sufferers experience transient focal neurological symptoms such as visual, sensory, motor or language disturbances, referred to as \"aura\" because they often occur before the headache.",
+      {
+        "entities": [
+          [0, 19, "DISEASE"],
+          [64, 68, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "These phenomena of irritation and/or neurological deficit are reversible and have the particularity of setting in and regressing within a few minutes rather than abruptly.",
+      {
+        "entities": [
+          [38, 101, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "A distinction is made between migraine with typical aura and basilar migraine (characterized by transient visual tr., vertigo, tinnitus, ataxia)9 .",
+      {
+        "entities": [
+          [51, 80, "CAUSE"],
+          [87, 104, "CAUSE"],
+          [109, 123, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "Migraine complications: migraine status, transformation into chronic migraine (often related to excessive medication) and migraine infarction are the most frequent complications.",
+      {
+        "entities": []
+      }
+    ],
+    [
+      "2.1.3 Primary neuralgia",
+      {
+        "entities": [
+          [7, 25, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      "Damage to any cranial nerve innervating the structures of the face can cause neuralgia.",
+      {
+        "entities": [
+          [30, 38, "CAUSE"],
+          [90, 99, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      "This is characterized by painful attacks of stereotyped localization, which are very violent, short (fractions of a second), recurrent and throbbing.",
+      {
+        "entities": [
+          [29, 44, "SYMPTOMS"],
+          [76, 97, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "In the case of neuralgia, it is essential to differentiate between secondary causes (e.g. inflammation due to multiple sclerosis or borreliosis, or tumour compression or infiltration) and the primary (idiopathic) form.",
+      {
+        "entities": [
+          [28, 55, "SYMPTOMS"],
+          [71, 80, "CAUSE"]
+        ]
+      }
+    ],
+    [
+      "In the case of secondary neuralgia, pain sometimes persists between attacks.",
+      {
+        "entities": [
+          [14, 22, "SYMPTOMS"],
+          [45, 49, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "The main types of neuralgia are: 1) Trigeminal neuralgia (electrical discharges in the territory of one or more branches of the trigeminal nerve, often triggered by a \"trigger\" zone or by chewing or brushing teeth).",
+      {
+        "entities": [
+          [29, 49, "DISEASE"],
+          [80, 100, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "Trigeminal neuralgia is the most common facial neuralgia, preferentially affecting women over the age of 40 (annual incidence of 3-13/100,000 individuals, up to 30/100,000 in the 70+ age group).",
+      {
+        "entities": [
+          [0, 20, "DISEASE"],
+          [62, 70, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "Before the age of 40, its appearance is a warning sign that a secondary cause is being sought (see above).",
+      {
+        "entities": [
+          [25, 36, "CAUSE"],
+          [68, 78, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "2) Glossopharyngeal neuralgia (same characteristics as trigeminal neuralgia, except that the pain is located in the pharynx, radiates to the ear and is triggered by swallowing).",
+      {
+        "entities": [
+          [3, 24, "DISEASE"],
+          [77, 95, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "3) Arnold's neuralgia (neuralgic-type pain in the territory of the suboccipital nerve, triggered by palpation of its emergence).",
+      {
+        "entities": [
+          [4, 18, "DISEASE"],
+          [51, 70, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "2.1.4 Cluster headache",
+      {
+        "entities": [
+          [0, 18, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      "It accounts for < 1% of primary headaches and affects around six men for every woman.",
+      {
+        "entities": [
+          [12, 25, "SYMPTOMS"],
+          [54, 61, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "More often episodic, cluster headache can also present in a chronic form, defined as persisting for more than a year without more than 14 consecutive days of respite.",
+      {
+        "entities": [
+          [0, 16, "SYMPTOMS"],
+          [42, 49, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "Cluster headache is usually unilateral, orbito-temporal and of limited duration (between 15 minutes and 3 hours).",
+      {
+        "entities": [
+          [0, 18, "DISEASE"],
+          [37, 59, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "It is often associated with local neurovegetative symptoms (lacrimation, rhinorrhea).",
+      {
+        "entities": [
+          [13, 45, "SYMPTOMS"],
+          [47, 57, "SYMPTOMS"]
+        ]
+      }
+    ],
+    [
+      "2.1.5 Chronic paroxysmal hemicrania",
+      {
+        "entities": [
+          [0, 33, "DISEASE"]
+        ]
+      }
+    ],
+    [
+      "This is a headache similar to cluster headache, which mainly affects women (shorter duration of symptoms than cluster headache, but higher frequency) and responds specifically to indomethacin.",
+      {
+        "entities": [
+          [7, 28, "DISEASE"],
+          [84, 95, "SYMPTOMS"],
+          [120, 132, "TREATMENT"]
+        ]
+      }
+    ],
+    [
+      "indomethacin (therapeutic test: indomethacin 3x25 mg/d for 48 h, followed by 3x50 mg/d in case of no or insufficient response, which can be further increased in case of partial response; then treat with the lowest possible maintenance dose).",
+      {
+        "entities": [
+          [0, 11, "TREATMENT"],
+          [29, 40, "TREATMENT"],
+          [92, 103, "TREATMENT"],
+          [128, 138, "SYMPTOMS"]
+        ]
+      }
+    ]
+    
+  
+  ]
+
+}
